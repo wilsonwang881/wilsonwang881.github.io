@@ -1,5 +1,6 @@
 #!/bin/sh
 
+cp themes/next/_config.yml next_config.yml
 hexo clean
 rm -rf .deploy_git
 hexo g 
