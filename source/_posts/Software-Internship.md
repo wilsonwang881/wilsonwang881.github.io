@@ -6,6 +6,8 @@ tags:
 - coding
 - internship
 - Israel
+categories:
+- Internship
 ---
 
 Summer placement at [Fleetonomy](https://fleetonomy.io/), Israel, for 10 weeks. Working on frontend, backend, testing and database for a network application like Uber. The report is available [here](/uploads/Summer_2018_Intern_Report.pdf).

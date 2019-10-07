@@ -6,6 +6,8 @@ tags:
 - coursework
 - design
 - coding
+categories:
+- Coursework
 ---
 
 The project was to design a remove control rover. The rover must be equipped with antenna and sensors for detecting and distinguishing wireless signals such as radio signals and ultrasonic waves. The project finished in May, 2017.

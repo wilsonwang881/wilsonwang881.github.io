@@ -5,6 +5,8 @@ modified: 2019-09-18 13:26:39
 tags:
 - trip
 - Europe
+categories:
+- Winter
 ---
 
 Actually the trip was to Switzerland, Germany and Austria. We were there when it was Christmas. Awesome! 

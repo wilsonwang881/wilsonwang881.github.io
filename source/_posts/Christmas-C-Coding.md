@@ -6,6 +6,8 @@ tags:
 - C++
 - coding
 - coursework
+categories:
+- Coursework
 ---
 
 It was a piece of C++ coding which the students chose the topic. I wrote a piece of software using RSA to encrypt people's information. The software has no GUI but supported user login and registration. 

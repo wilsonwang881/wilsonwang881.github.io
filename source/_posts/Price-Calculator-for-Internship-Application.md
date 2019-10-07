@@ -5,6 +5,8 @@ date: 2018-10-12 12:00:00
 tags: 
 - coding
 - JavaScript
+categories:
+- "Webapp"
 ---
 
 It is a web application written JavaScript, accessible [here](https://wilsonwang.org/UNiDAYSApplication/).

@@ -4,6 +4,8 @@ date: 2017-10-01 12:00:00
 modified: 2019-09-19 12:47:35
 tags:
 - coursework
+categories:
+- Courses
 ---
 
 The courses for the 2017-2018 academic year are listed as below:

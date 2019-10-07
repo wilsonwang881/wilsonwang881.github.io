@@ -7,6 +7,8 @@ tags:
 - Python
 - C++
 - edX
+categories:
+- Random
 ---
 
 The following courses were completed and certificates were issued:

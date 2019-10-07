@@ -6,6 +6,8 @@ tags:
 - PiWars
 - RaspberryPi
 - robotics
+categories:
+- Robotics
 ---
 
 On the 2nd of April, 2017, I lead a group of 5 students to Cambridge for a competition called the PiWars. We got the 7th position in the competition. One thing to notice is that our score was 204 and the 4th position in the Piwars was 207. Our team was so close to the 4th position.

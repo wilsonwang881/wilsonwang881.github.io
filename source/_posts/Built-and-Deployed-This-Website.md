@@ -6,6 +6,8 @@ tags:
 - website
 - coding
 - AWS
+categories:
+- "Website Hosting"
 ---
 
 The first version of the website was a static one and was deployed using the **AWS S3 storage** service. The certificate was issued using the **AWS Certificate Manager**.

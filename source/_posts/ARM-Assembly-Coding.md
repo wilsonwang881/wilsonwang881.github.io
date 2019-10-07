@@ -6,6 +6,8 @@ tags:
 - Assembly
 - coding
 - coursework
+categories:
+- Coursework
 ---
 
 Just for practising and gaining a better understanding of the ARM assembly language and computer architecture. The software used to emulate the execution of Assembly commands on a CPU is [VisUAL](https://salmanarif.bitbucket.io/visual/).

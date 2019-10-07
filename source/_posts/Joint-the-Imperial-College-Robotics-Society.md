@@ -5,6 +5,8 @@ modified: 2019-09-18 13:05:36
 tags:
 - robotics
 - society
+categories:
+- Robotics
 ---
 
 The society has an amazing workspace, including a laser-cut machine. A number of 3rd and 4th year students at Imperial may also choose to work on their final year project at the ICRS lab.

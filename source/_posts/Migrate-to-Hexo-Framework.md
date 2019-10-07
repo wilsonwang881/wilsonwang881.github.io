@@ -4,6 +4,8 @@ date: 2019-09-16 18:14:22
 tags:
 - Hexo
 - website
+categories:
+- "Website Hosting"
 ---
 
 I have seen people using the Hexo framework before and have planned to do so for a long time. Now it is the time.
