@@ -16,7 +16,7 @@ The HDL Editor project is an extension to my undergraduate final year project. T
 
 <!--more-->
 
-##### [Setup](https://wilsonwang.org/2019/10/05/HDL-Editor-Setup/)
+##### [Setup](https://wilsonwang.org/2019/10/04/HDL-Editor-Setup/)
 
 ##### Create a Window with F# and Electron
 
