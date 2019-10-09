@@ -6,7 +6,7 @@ tags:
 - website
 - gitalk
 categories:
-- "Website Hosting"
+- 'Website Hosting'
 ---
 
 The comment system used is [Gitalk](https://gitalk.github.io/). Many posts are available online for how to do this. The official guide is available [here](https://theme-next.org/docs/third-party-services/comments).
