@@ -17,7 +17,7 @@ Assignment for ECEN 646 Homework 5 Problem 4. Coded in **Python**.
 
 ## Problem:
 
-Let $\\{ X_i \\} _{i≥1}$ be i.i.d. uniform $(0, 1)$ random variables. Compute the standard deviation $\sigma$ of $X_i$ and define
+Let $\\{ X_i \\}_{i≥1}$ be i.i.d. uniform (0, 1) random variables. Compute the standard deviation $\sigma$ of $X_i$ and define
 
 $$ Z_N = \sum_{i=1}^N = \frac{X_i - E[X_i]}{\sigma\sqrt{N}} $$
 
