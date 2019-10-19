@@ -1,13 +1,13 @@
 #!/bin/sh
 
-cp themes/next/_config.yml next_config.yml
+export HEXO_ALGOLIA_INDEXING_KEY=d8670c6577150217e7b773264106a786
 hexo clean
+hexo algolia
+
+cp themes/next/_config.yml next_config.yml
 rm -rf .deploy_git
 hexo g 
 hexo d 
-
-export HEXO_ALGOLIA_INDEXING_KEY=d8670c6577150217e7b773264106a786
-hexo algolia
 
 TELEGRAM_TOKEN="864123846:AAGhtzQbkftrNRK3f_ptqgFeVDZKq4L4QKo"
 TELEGRAM_CHAT_ID="-358767224"
