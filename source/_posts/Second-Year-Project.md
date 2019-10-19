@@ -2,6 +2,7 @@
 title: Second Year Project
 date: 2017-10-21 12:00:00
 modified: 2019-09-18 13:23:04
+sidebar: false
 tags:
 - coursework
 - coding

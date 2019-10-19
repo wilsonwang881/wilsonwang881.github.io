@@ -2,6 +2,7 @@
 title: Price Calculator for Internship Application
 sidebar: false
 date: 2018-10-12 12:00:00
+sidebar: false
 tags: 
 - coding
 - JavaScript

@@ -2,6 +2,7 @@
 title: Summer Academy of Code in Oxford
 date: 2017-09-17 12:00:00
 modified: 2019-09-18 13:17:38
+sidebar: false
 tags:
 - Node.js
 - coding

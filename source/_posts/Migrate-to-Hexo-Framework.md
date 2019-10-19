@@ -1,6 +1,7 @@
 ---
 title: Migrate to Hexo Framework
 date: 2019-09-16 18:14:22
+sidebar: false
 tags:
 - Hexo
 - website

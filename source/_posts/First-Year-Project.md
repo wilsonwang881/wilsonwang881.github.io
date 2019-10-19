@@ -2,6 +2,7 @@
 title: First Year Project
 date: 2016-10-18 12:57:48
 modified: 2019-09-18 13:00:00
+sidebar: false
 tags:
 - coursework
 - design

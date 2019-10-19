@@ -3,6 +3,7 @@ title: HDL Editor Development Log
 sidebar: false
 date: 2019-09-27 13:39:04
 modified: 2019-09-30 12:14:00
+sidebar: false
 tags:
 - project
 - F#

@@ -2,6 +2,7 @@
 title: edX Online Courses
 date: 2017-11-30 12:00:00
 modified: 2019-09-18 13:25:01
+sidebar: false
 tags:
 - coding
 - Python

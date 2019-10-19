@@ -2,6 +2,7 @@
 title: Built and Deployed This Website
 date: 2017-04-10 12:00:00
 modified: 2019-09-18 13:10:46
+sidebar: false
 tags:
 - website
 - coding

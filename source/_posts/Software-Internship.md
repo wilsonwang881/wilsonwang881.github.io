@@ -2,6 +2,7 @@
 title: Software Internship
 date: 2018-07-01 12:00:00
 modified: 2019-09-18 13:31:29
+sidebar: false
 tags:
 - coding
 - internship

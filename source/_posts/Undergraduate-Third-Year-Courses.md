@@ -2,6 +2,7 @@
 title: Undergraduate Third Year Courses
 date: 2018-10-01 12:00:00
 modified: 2019-09-19 12:49:37
+sidebar: false
 tags:
 - coursework
 categories:

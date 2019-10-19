@@ -2,6 +2,7 @@
 title: Trip
 date: 2017-12-25 12:00:00
 modified: 2019-09-18 13:26:39
+sidebar: false
 tags:
 - trip
 - Europe

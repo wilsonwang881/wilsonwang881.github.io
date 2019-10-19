@@ -1,6 +1,7 @@
 ---
 title: Migrate to GitHub Pages
 date: 2019-09-17 11:15:06
+sidebar: false
 tags:
 - website
 - GitHub

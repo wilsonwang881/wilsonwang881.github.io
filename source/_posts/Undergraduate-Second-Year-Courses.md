@@ -2,6 +2,7 @@
 title: Undergraduate Second Year Courses
 date: 2017-10-01 12:00:00
 modified: 2019-09-19 12:47:35
+sidebar: false
 tags:
 - coursework
 categories:

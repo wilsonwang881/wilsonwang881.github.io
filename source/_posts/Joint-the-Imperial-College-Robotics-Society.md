@@ -2,6 +2,7 @@
 title: Joint the Imperial College Robotics Society
 date: 2017-02-03 12:00:00
 modified: 2019-09-18 13:05:36
+sidebar: false
 tags:
 - robotics
 - society

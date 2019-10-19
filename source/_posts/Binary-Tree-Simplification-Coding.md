@@ -2,6 +2,7 @@
 title: Binary Tree Simplification Coding
 date: 2018-04-30 12:00:00
 modified: 2019-09-18 13:29:54
+sidebar: false
 tags:
 - C++
 - coding

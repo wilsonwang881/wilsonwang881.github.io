@@ -2,6 +2,7 @@
 title: Undergraduate First Year Courses
 date: 2016-10-01 12:37:28
 modified: 2019-09-10 12:00:00
+sidebar: false
 tags:
 - coursework
 categories:

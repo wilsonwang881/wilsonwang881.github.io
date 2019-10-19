@@ -2,6 +2,7 @@
 title: PiWars 2017
 date: 2017-04-02 13:00:00
 modified: 2019-09-18 13:11:53
+sidebar: false
 tags:
 - PiWars
 - RaspberryPi

@@ -2,6 +2,7 @@
 title: ARM Assembly Coding
 date: 2018-01-05 12:00:00
 modified: 2019-09-18 13:28:23
+sidebar: false
 tags:
 - Assembly
 - coding
