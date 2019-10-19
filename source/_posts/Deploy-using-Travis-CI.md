@@ -3,7 +3,6 @@ title: Deploy using Travis CI or Not?
 sidebar: false
 date: 2019-09-28 18:14:11
 modified: 2019-10-05 15:01:00
-sidebar: false
 tags:
 - "Travis CI"
 - website

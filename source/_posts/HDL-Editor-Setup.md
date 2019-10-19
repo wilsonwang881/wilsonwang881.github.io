@@ -2,7 +2,6 @@
 title: HDL Editor Setup
 sidebar: false
 date: 2019-10-04 20:54:04
-sidebar: false
 tags:
 - project
 - F#

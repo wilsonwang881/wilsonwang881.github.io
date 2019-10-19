@@ -2,7 +2,6 @@
 title: Monitoring Service
 sidebar: false
 date: 2019-09-27 19:44:16
-sidebar: false
 tags:
 - website
 - monitoring

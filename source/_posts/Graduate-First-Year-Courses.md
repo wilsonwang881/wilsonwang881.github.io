@@ -2,7 +2,6 @@
 title: Graduate First Year Courses
 sidebar: false
 date: 2019-09-27 13:29:48
-sidebar: false
 tags:
 - coursework
 categories:

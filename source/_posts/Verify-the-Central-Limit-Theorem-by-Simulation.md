@@ -3,7 +3,6 @@ title: Verify the Central Limit Theorem by Simulation
 mathjax: true
 sidebar: false
 date: 2019-10-08 23:53:47
-sidebar: false
 tags:
 - coursework
 - coding
