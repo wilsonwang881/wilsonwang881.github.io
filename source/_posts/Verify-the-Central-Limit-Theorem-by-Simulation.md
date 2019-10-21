@@ -17,7 +17,7 @@ Assignment for ECEN 646 Homework 5 Problem 4. Coded in **Python**.
 
 ## Problem:
 
-Let $\\{ X_i \\}_{i≥1}$ be i.i.d. uniform (0, 1) random variables. Compute the standard deviation $\sigma$ of $X_i$ and define
+Let $ \\{ X_i \\}_{i>=1} $ be i.i.d. uniform (0, 1) random variables. Compute the standard deviation $\sigma$ of $X_i$ and define
 
 $$ Z_N = \sum_{i=1}^N = \frac{X_i - E[X_i]}{\sigma\sqrt{N}} $$
 
@@ -93,15 +93,15 @@ plt.show()
 
 ![Z_10 plot](Z_10.png)
 
-Z_10 plot
+$Z_{10}$ plot
 
 ![Z_100 plot](Z_100.png)
 
-Z_100 plot
+$Z_{100}$ plot
 
 ![Z_1000 plot](Z_1000.png)
 
-Z_1000 plot
+$Z_{1000}$ plot
 
 ![All together plot](All.png)
 
@@ -109,4 +109,4 @@ All plot
 
 ## Link:
 
-[GitHub](https://github.com/wilsonwang881/ECEN646_HW5_P4)
+[GitHub repository](https://github.com/wilsonwang881/ECEN646_HW5_P4)
