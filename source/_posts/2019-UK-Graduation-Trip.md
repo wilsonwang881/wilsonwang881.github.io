@@ -8,7 +8,7 @@ categories:
 - Autumn
 ---
 
-During October of 2019, my family went to the UK to join the Commemoration Day to celebrate my graduation from Imperial College London as an undergraduate student.
+During October of 2019, my family went to the UK to join the Commemoration Day to celebrate my graduation from Imperial College London as an undergraduate student. The post covers day 1 to day 5 of the trip. For day 6 to day 9, please refer to [this link](https://wilsonwang.org/2019/11/16/2019-UK-Graduation-Trip-Continued/).
 
 <!--more-->
 
@@ -180,5 +180,5 @@ During October of 2019, my family went to the UK to join the Commemoration Day t
 
 <img style="background:none; border:none; box-shadow:none;" src="Graduation_Ceremony.jpeg"/>
 
-**Graduation ceremony**
+**Graduation ceremony at Royal Albert Hall**
 
