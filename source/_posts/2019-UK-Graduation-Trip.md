@@ -90,19 +90,19 @@ During October of 2019, my family went to the UK to join the Commemoration Day t
 
 <img style="background:none; border:none; box-shadow:none;" src="Windsor_Castle_1.jpeg"/>
 
-**Windosr Castle 1/4**
+**Windsor Castle 1/4**
 
 <img style="background:none; border:none; box-shadow:none;" src="Windsor_Castle_2.jpeg"/>
 
-**Windosr Castle 2/4**
+**Windsor Castle 2/4**
 
 <img style="background:none; border:none; box-shadow:none;" src="Windsor_Castle_3.jpeg"/>
 
-**Windosr Castle 3/4**
+**Windsor Castle 3/4**
 
 <img style="background:none; border:none; box-shadow:none;" src="Windsor_Castle_4.jpeg"/>
 
-**Windosr Castle 4/4**
+**Windsor Castle 4/4**
 
 <img style="background:none; border:none; box-shadow:none;" src="Windsor_Castle_5.jpeg"/>
 
