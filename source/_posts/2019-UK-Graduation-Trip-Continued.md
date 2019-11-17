@@ -70,7 +70,7 @@ Hyde Park, Royal Observatory Greenwich, National Maritime Museum.
 
 <img style="background:none; border:none; box-shadow:none;" src="Old_Royal_Naval_College.jpeg"/>
 
-**Old Royal Naval Collegem**
+**Old Royal Naval College**
 
 <img style="background:none; border:none; box-shadow:none;" src="Lunch_at_Byron_Hamburgers.jpeg"/>
 
