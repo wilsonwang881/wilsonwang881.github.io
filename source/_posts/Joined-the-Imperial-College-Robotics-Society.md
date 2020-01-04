@@ -1,5 +1,5 @@
 ---
-title: Joint the Imperial College Robotics Society
+title: Joined the Imperial College Robotics Society
 date: 2017-02-03 12:00:00
 modified: 2019-09-18 13:05:36
 sidebar: false
@@ -14,6 +14,6 @@ The society has an amazing workspace, including a laser-cut machine. A number of
 
 <!--more-->
 
-![ICRS Logo](ICRS_Logo.png)
+<img style="background:none; border:none; box-shadow:none;" src="ICRS_Logo.png"/>
 
 I did both the laser-cut and 3D printing induction in the lab. Now I only need to pay for the materials and I can build anything using these machines.
