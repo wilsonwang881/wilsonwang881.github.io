@@ -4,6 +4,8 @@ sidebar: false
 date: 2020-01-27 18:23:06
 tags:
 - JLPT
+categories:
+- Random
 ---
 
 PASS!!

@@ -3,6 +3,9 @@ title: Some Photos
 sidebar: false
 date: 2020-02-15 15:32:57
 tags:
+- campus
+categories:
+- Winter
 ---
 
 天気が良いから、散歩しましょう。
