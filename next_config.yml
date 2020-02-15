@@ -626,9 +626,9 @@ comments:
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
-  count: false
+  enable: true
+  shortname: wilsonwangwebsite
+  count: true
   lazyload: false
   #post_meta_order: 0
 
@@ -680,11 +680,11 @@ livere_uid: # <your_uid>
 # Demo: https://gitalk.github.io
 # For more information: https://github.com/gitalk/gitalk
 gitalk:
-  enable: true
+  enable: false
   github_id: wilsonwang881 # GitHub repo owner
   repo: WilsonSiteCommentContainer # Repository name to store issues
-  client_id: 1d5b0f87d6a6e6b58b11 # GitHub Application Client ID
-  client_secret: 855a2962476ab8f65bdea0fe3f27a509dedebe55 # GitHub Application Client Secret
+  client_id:  # GitHub Application Client ID
+  client_secret:  # GitHub Application Client Secret
   admin_user: ['wilsonwang881'] # GitHub repo owner and collaborators, only these guys can initialize gitHub issues
   distraction_free_mode: true # Facebook-like distraction free mode
   # Gitalk's display language depends on user's browser or system environment
