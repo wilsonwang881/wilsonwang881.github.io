@@ -100,7 +100,7 @@ creative_commons:
   license: by-nc-sa
   sidebar: true
   post: true
-  language: en
+  language:
 
 
 # ---------------------------------------------------------------
@@ -628,7 +628,7 @@ comments:
 disqus:
   enable: true
   shortname: wilsonwangwebsite
-  count: true
+  count: false
   lazyload: false
   #post_meta_order: 0
 
