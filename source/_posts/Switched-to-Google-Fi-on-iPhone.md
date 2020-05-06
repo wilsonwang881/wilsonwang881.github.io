@@ -15,9 +15,9 @@ Google Fi has global coverage and charges the same as in U.S, except making phon
 
 <!--more-->
 
-<img style="background:none; border:none; box-shadow:none;" src="Google Fi SIM Kit Front.jpeg"/>
+<img style="background:none; border:none; box-shadow:none; width:500px;" src="Google Fi SIM Kit Front.jpeg"/>
 
-<img style="background:none; border:none; box-shadow:none;" src="Google Fi SIM Kit Inside.jpeg"/>
+<img style="background:none; border:none; box-shadow:none; width:500px;" src="Google Fi SIM Kit Inside.jpeg"/>
 
 A few notes for those who want to change to Google Fi:
 
