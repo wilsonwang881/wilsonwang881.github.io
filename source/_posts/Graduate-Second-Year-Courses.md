@@ -8,7 +8,7 @@ categories:
 - Courses
 ---
 
-The courses for the academic year of 2019-2020 are listed as the following:
+The courses for the academic year of 2020-2021 are listed as the following:
 
 <!--more-->
 
