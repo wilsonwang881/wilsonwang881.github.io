@@ -8,7 +8,9 @@ subtitle: Rise, the great work must be done!
 description:
 keywords:
 author: Wilson Wang
-language: en
+language: 
+- en
+- zh
 timezone: America/Chicago
 
 # URL

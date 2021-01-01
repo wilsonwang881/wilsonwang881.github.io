@@ -19,3 +19,9 @@ Networks and Distributed Processing
 Computer Architecture
 
 Intermediate Program Design and Development with C++
+
+## 2021 Spring Term
+
+Distributed Systems and Cloud Computing
+
+Computational Photography

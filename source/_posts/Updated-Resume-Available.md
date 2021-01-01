@@ -8,4 +8,4 @@ categories:
 - Resume
 ---
 
-Added the current graduate school to the [resume](/Resume.pdf).
+Added the current graduate school to the [resume](/uploads/Resume.pdf).
