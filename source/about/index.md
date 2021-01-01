@@ -6,9 +6,7 @@ sidebar: false
 
 ## About Me:
 
-Howdy! I am currently a graduate student at Texas A&M University studying Electrical Engineering. My course orientation is Information Science and System.
-
-I have a passion for coding and software engineering. Welcome to my blog!
+Howdy! I am currently a PhD student at Texas A&M University studying Computer Engineering.
 
 ## Resume and Social Websites:
 
