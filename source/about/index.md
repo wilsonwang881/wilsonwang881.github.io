@@ -18,7 +18,7 @@ Howdy! I am currently a PhD student at Texas A&M University studying Computer En
 
 **Twitter:** [Link](https://twitter.com/WilsonWang8881)
 
-**facebook:** [Link](https://www.facebook.com/wilson.wang.37051579)
+**Facebook:** [Link](https://www.facebook.com/wilson.wang.37051579)
 
 
 

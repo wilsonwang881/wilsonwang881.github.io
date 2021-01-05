@@ -3,7 +3,7 @@ title: 2020年终总结
 sidebar: false
 date: 2020-12-22 11:49:28
 tags:
-- random
+- summary
 categories:
 - Me
 ---
