@@ -22,8 +22,8 @@ Intermediate Program Design and Development with C++
 
 ## 2021 Spring Term
 
+Operating Systems
+
+Advanced Computer Architecture 
+
 Processor Memory Systems
-
-Distributed Systems and Cloud Computing
-
-Computational Photography
