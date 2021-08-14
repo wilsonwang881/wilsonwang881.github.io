@@ -6,8 +6,6 @@ tags:
 - films
 ---
 
-## Written Before the Post:
-
 This post will be updated on a regular basis. Please be noted that the comparison or suggestions will be very subjective based on the author's preference and own experience.
 
 <!--more-->
