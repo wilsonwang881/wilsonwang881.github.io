@@ -10,7 +10,7 @@ hexo g
 hexo d 
 
 TELEGRAM_TOKEN="864123846:AAGhtzQbkftrNRK3f_ptqgFeVDZKq4L4QKo"
-TELEGRAM_CHAT_ID="-358767224"
+TELEGRAM_CHAT_ID="-1001417572276" #"-358767224"
 
 # Get the token from Travis environment vars and build the bot URL:
 BOT_URL="https://api.telegram.org/bot${TELEGRAM_TOKEN}/sendMessage"
