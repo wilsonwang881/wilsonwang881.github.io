@@ -147,10 +147,11 @@ social:
   GitHub: https://github.com/wilsonwang881 || fab fa-github
   E-Mail: mailto:wilson.wang@wilsonwang.org || fa fa-envelope
   LinkedIn: https://www.linkedin.com/in/leiwangwilson/ || fab fa-linkedin
-  Twitter: https://twitter.com/WilsonWang8881 || fab fa-twitter
+  # Twitter: https://twitter.com/WilsonWang8881 || fab fa-twitter
   #Weibo: https://weibo.com/yourname || fab fa-weibo
   #Google: https://plus.google.com/yourname || fab fa-google
   Telegram: https://t.me/joinchat/NOkqdRViWnjUk4Aylv_Fqg || fab fa-telegram
+  RSS: /atom.xml || fa fa-rss
   Resume: /uploads/Resume.pdf || fas fa-file
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
@@ -285,7 +286,7 @@ reward:
 # Usage: `Key: permalink || icon` (Font Awesome)
 follow_me:
   #WeChat: /images/wechat_channel.jpg || fab fa-weixin
-  #RSS: /atom.xml || fa fa-rss
+  RSS: /atom.xml || fa fa-rss
 
 # Related popular posts
 # Dependencies: https://github.com/tea3/hexo-related-popular-posts

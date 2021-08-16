@@ -106,3 +106,17 @@ math:
     js: custom_js_source # not used
     config:
       # KaTeX config
+
+feed:
+  enable: true
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: favicon-32x32.png
+  autodiscovery: true
+  template:
