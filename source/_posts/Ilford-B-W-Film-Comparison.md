@@ -25,7 +25,7 @@ Ilford claims that the distinction between the so-called processional and consum
 However, the differences exist regarding ISO, grain size and the the ability to push and pull. 
 
 
-> Push or pull allows films to be shot at different ISOs from their rated ones, adding versatility to various lighting conditions or speed requirements. 
+> Push or pull allows films to be shot at different ISO from their rated ones, adding versatility to various lighting conditions or speed requirements. 
 
 Pushed or pulled films require adjusted time of chemical processing and will produce different grainy effects.
 
@@ -76,6 +76,27 @@ Using color filters with B&W films is a good idea for boosting contrast and maki
 
 Color filters act as ND filters as well: reducing the amount of light entering the lens and leading to a slower shutter speed. Different color filters have different levels of light reduction effect.
 
+## HP5 PLUS
+
+The HP5 PLUS is where the write starts. Ilford claims the film can be pushed up to ISO 3200, a full 3 stops![^5]
+
+<figure>
+    <img style="background:none; border:none; box-shadow:none;" width="50%" src="hp5_plus.jpeg"/>
+    <figcaption style="text-align: center;">Ilford HP5 PLUS cartridge and package.</figcaption>
+</figure>
+
+Here are some photos shot at different ISO and with/without filters.
+
+<figure>
+    <img style="background:none; border:none; box-shadow:none;" width="100%" src="hp5_1.jpeg"/>
+    <figcaption style="text-align: center;">HP5 PLUS @ ISO 400, UV filter.</figcaption>
+</figure>
+
+<figure>
+    <img style="background:none; border:none; box-shadow:none;" width="100%" src="hp5_2.jpeg"/>
+    <figcaption style="text-align: center;">HP5 PLUS @ ISO 400, UV filter.</figcaption>
+</figure>
+
 ## References:
 
 [^1]: https://www.ilfordphoto.com/choosing-your-first-ilford-film/
@@ -85,3 +106,5 @@ Color filters act as ND filters as well: reducing the amount of light entering t
 [^3]: https://photographylife.com/lenses/nikon-af-nikkor-af-28-105mm-f3-5-4-5d-if
 
 [^4]: https://hoyafilterusa.com/pages/how-black-white-filters-work
+
+[^5]: https://www.ilfordphoto.com/hp5-plus-35mm
