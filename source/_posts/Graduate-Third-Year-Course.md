@@ -14,7 +14,7 @@ The courses for the academic year of 2021-2022 are listed as the following:
 
 ## 2021 Autumn Term
 
-Introduction to Formal Hardware Verification
+Introduction to Formal Verification
 
 Parallel Computing
 
