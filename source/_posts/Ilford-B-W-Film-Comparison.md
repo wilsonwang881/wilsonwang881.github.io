@@ -6,7 +6,7 @@ tags:
 - films
 ---
 
-This post will be updated on a regular basis. Please be noted that the comparison or suggestions will be very subjective based on the author's preference and own experience.
+This post will be updated on a regular basis. Please note that the comparison or suggestions will be very subjective based on the author's preference and own experience.
 
 <!--more-->
 
