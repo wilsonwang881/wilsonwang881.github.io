@@ -99,6 +99,13 @@ Here are some photos shot at different ISO and with/without filters.
 
 ## FP4 PLUS
 
+Ilford FP4 PLUS is one of the films in the PLUS lineup. The technology is relatively old compared with the Delta lineup.
+
+<figure>
+    <img style="background:none; border:none; box-shadow:none;" width="50%" src="fp4_plus.jpeg"/>
+    <figcaption style="text-align: center;">Ilford FP4 PLUS cartridge and package.</figcaption>
+</figure>
+
 Different filters are used during the test shots.
 
 ![](fp4_plus_yellow.jpg "FP4 PLUS with Yellow Filter") | ![](fp4_plus_red.jpg "FP4 PLUS with Red Filter")
