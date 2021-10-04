@@ -97,6 +97,34 @@ Here are some photos shot at different ISO and with/without filters.
     <figcaption style="text-align: center;">HP5 PLUS @ ISO 400, UV filter.</figcaption>
 </figure>
 
+## FP4 PLUS
+
+Different filters are used during the test shots.
+
+![](fp4_plus_yellow.jpg "FP4 PLUS with Yellow Filter") | ![](fp4_plus_red.jpg "FP4 PLUS with Red Filter")
+-|-
+FP4 PLUS @ ISO 125, yellow filter.             |  FP4 PLUS @ ISO 125, red filter.
+![](fp4_plus_uv.jpg "FP4 PLUS with UV Filter") | ![](fp4_plus_polarizer.jpg "FP4 PLUS with Polarizer Filter")
+FP4 PLUS @ ISO 125, UV filter. | FP4 PLUS @ ISO 125, polarizer filter.
+
+Shots with a color filter on appear to have higher contrast. In particular, the clouds are darkened a bit. However, the dark part of the image, such as trees, are very difficult to expose any details.
+
+Also use the following picture as a reference.
+
+<figure>
+    <img style="background:none; border:none; box-shadow:none;" width="100%" src="fp4_plus_no_filter.jpg"/>
+    <figcaption style="text-align: center;">FP4 PLUS @ ISO 125, no filter.</figcaption>
+</figure>
+
+One more shot with yellow filter on.
+
+<figure>
+    <img style="background:none; border:none; box-shadow:none;" width="100%" src="fp4_plus_zach.jpg"/>
+    <figcaption style="text-align: center;">FP4 PLUS @ ISO 125, yellow filter.</figcaption>
+</figure>
+
+Compared with FP5 PLUS, FP4 PLUS has a smaller grainy effect. The tradeoff is a longer exposure time. With good light conditions, such as taking landscape photos on a sunny day, FP4 PLUS may be preferred.
+
 ## References:
 
 [^1]: https://www.ilfordphoto.com/choosing-your-first-ilford-film/
