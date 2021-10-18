@@ -20,7 +20,7 @@ Howdy! I am currently a PhD student at Texas A&M University studying Computer En
 
 [**Facebook**](https://www.facebook.com/wilson.wang.37051579)
 
-## Friends:
+## Friends' Sites:
 
 In alphabetical order: [Chen Liang](https://liangchenlc.com/), [Libang Liang](https://llbllbllbllb.github.io/), [Yaohua Zhang](https://giraffe-zhang.github.io/), [Gary Zhao](https://amath.washington.edu/people/gary-zhao).
 
