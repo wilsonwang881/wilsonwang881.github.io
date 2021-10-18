@@ -10,15 +10,17 @@ Howdy! I am currently a PhD student at Texas A&M University studying Computer En
 
 ## Resume and Social Websites:
 
-**Resume:** [PDF](/uploads/Resume.pdf)
+[**Resume**](/uploads/Resume.pdf)
 
-**GitHub:** [Link](https://github.com/wilsonwang881)
+[**GitHub**](https://github.com/wilsonwang881)
 
-**LinkedIn:** [Link](https://www.linkedin.com/in/leiwangwilson)
+[**LinkedIn**](https://www.linkedin.com/in/leiwangwilson)
 
-**Twitter:** [Link](https://twitter.com/WilsonWang8881)
+[**Twitter**](https://twitter.com/WilsonWang8881)
 
-**Facebook:** [Link](https://www.facebook.com/wilson.wang.37051579)
+[**Facebook**](https://www.facebook.com/wilson.wang.37051579)
 
+## Friends:
 
+In alphabetical order: [Chen Liang](https://liangchenlc.com/), [Libang Liang](https://llbllbllbllb.github.io/), [Yaohua Zhang](https://giraffe-zhang.github.io/), [Gary Zhao](https://amath.washington.edu/people/gary-zhao).
 

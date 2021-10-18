@@ -130,7 +130,7 @@ One more shot with yellow filter on.
     <figcaption style="text-align: center;">FP4 PLUS @ ISO 125, yellow filter.</figcaption>
 </figure>
 
-Compared with FP5 PLUS, FP4 PLUS has a smaller grainy effect. The tradeoff is a longer exposure time. With good light conditions, such as taking landscape photos on a sunny day, FP4 PLUS may be preferred.
+Compared with HP5 PLUS, FP4 PLUS has a smaller grainy effect. The tradeoff is a longer exposure time. With good light conditions, such as taking landscape photos on a sunny day, FP4 PLUS may be preferred.
 
 ## References:
 
