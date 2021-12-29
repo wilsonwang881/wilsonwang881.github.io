@@ -21,3 +21,13 @@ Parallel Computing
 Seminar in Computer Engineering
 
 Research
+
+## 2022 Spring Term
+
+Compiler Design
+
+Advanced Operating System
+
+Seminar in Electrical Engineering
+
+Research
