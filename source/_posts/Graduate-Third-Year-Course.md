@@ -28,6 +28,6 @@ Compiler Design
 
 Advanced Operating System
 
-Seminar in Electrical Engineering
+Seminar in Computer Engineering
 
 Research
