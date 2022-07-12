@@ -8,17 +8,11 @@ sidebar: false
 
 Howdy! I am currently a PhD student at Texas A&M University studying Computer Engineering.
 
-## Resume and Social Websites:
+<script src="https://gist.github.com/wilsonwang881/53afa02e6fd235fb0f11808d3877d4b1.js"></script>
 
-[**Resume**](/uploads/Resume.pdf)
+## Resume and Social Networks:
 
-[**GitHub**](https://github.com/wilsonwang881)
-
-[**LinkedIn**](https://www.linkedin.com/in/leiwangwilson)
-
-[**Twitter**](https://twitter.com/WilsonWang8881)
-
-[**Facebook**](https://www.facebook.com/wilson.wang.37051579)
+[**Resume**](/uploads/Resume.pdf)    [**GitHub**](https://github.com/wilsonwang881)    [**LinkedIn**](https://www.linkedin.com/in/leiwangwilson)    [**Twitter**](https://twitter.com/WilsonWang8881)    [**Facebook**](https://www.facebook.com/wilson.wang.37051579)
 
 ## Friends' Sites:
 
