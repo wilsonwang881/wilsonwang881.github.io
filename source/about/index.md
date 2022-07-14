@@ -16,5 +16,5 @@ Howdy! I am currently a PhD student at Texas A&M University studying Computer En
 
 ## Friends' Sites:
 
-In alphabetical order: [Zichen Du](https://flamingdu.one/), [Chen Liang](https://liangchenlc.com/), [Libang Liang](https://llbllbllbllb.github.io/), [Yaohua Zhang](https://giraffe-zhang.github.io/), [Gary Zhao](https://garyzhao.net/).
+In alphabetical order: [Du Zichen](https://flamingdu.one/), [Liang Chen](https://liangchenlc.com/), [Liang Libang](https://llbllbllbllb.github.io/), [Gary Zhao](https://garyzhao.net/), [Zhang Yaohua](https://giraffe-zhang.github.io/).
 

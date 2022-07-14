@@ -30,4 +30,5 @@ send_msg () {
 # characters, since they're reserved in bash
 send_msg "
 [wilsonwang.org](wilsonwang.org) updated!
+$1
 "
