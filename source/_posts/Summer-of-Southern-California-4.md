@@ -1,5 +1,5 @@
 ---
-title: Summer of Southern California 4
+title: "Summer of Southern California 4: Ilford SFX 200"
 sidebar: false
 date: 2022-07-13 19:20:41
 tags:
